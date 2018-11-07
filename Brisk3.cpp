@@ -695,7 +695,7 @@ BriskScaleSpace1::~BriskScaleSpace1()
 
 }
 
-// construct the image pyramids
+construct the image pyramids
 //void
 BriskScaleSpace1::constructPyramid(const cv::Mat& image)
 {
